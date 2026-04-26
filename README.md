@@ -17,10 +17,13 @@ A simple REST API built with FastAPI and SQLite to manage daily tasks. Developed
 - Pydantic
 
 ## How to Run Locally
-1. Clone the repository: `git clone ...`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Start the server:     `uvicorn main:app --reload`
-4. Open http://127.0.0.1:8000/docs to explore the API
+1. Clone the repository:
+2. `git clone ...`
+3. Install dependencies:
+4. `pip install -r requirements.txt`
+5. Start the server:
+6. `uvicorn main:app --reload`
+7. Open http://127.0.0.1:8000/docs to explore the API
 
 ## API Endpoints
 
